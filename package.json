@@ -2,7 +2,7 @@
   "name": "gulp-dev-server",
   "version": "1.0.0",
   "description": "nodejs + express develop server",
-  "main": "lib/server.coffee",
+  "main": "server.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
