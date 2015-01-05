@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "nodejs + express develop server",
   "main": "server.coffee",
+  "repository": {
+    "url": "https://github.com/buwon/gulp-dev-server"
+  },  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
