@@ -4,6 +4,7 @@
   "description": "nodejs + express develop server",
   "main": "server.coffee",
   "repository": {
+    "type" : "git",
     "url": "https://github.com/buwon/gulp-dev-server"
   },  
   "scripts": {
